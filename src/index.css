@@ -1,9 +1,9 @@
 body {
   margin: 0;
-  font-family: "Roboto", Arial !important;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: beige;
+  background-color: rgb(202, 202, 188);
 }
 
 code {
