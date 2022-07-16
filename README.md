@@ -4,6 +4,11 @@
 A weather application built using React and fetching the data from OpenWeatherMap API and GeoDB API.
 
 
+## Live Demo
+
+https://weather-app-nitin.netlify.app/
+
+
 
 ## Features
 
